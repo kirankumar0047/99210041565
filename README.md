@@ -15,5 +15,5 @@ This project uses a Convolutional Neural Network (CNN) to detect human emotions 
 # How to Run
 1. Clone this repository.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run the Jupyter Notebook or execute the main Python script for real-time detection.
+3. Run the Colab or execute the main Python script for real-time detection.
 
